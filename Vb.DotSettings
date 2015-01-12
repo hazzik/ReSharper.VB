@@ -1,4 +1,127 @@
 <wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/CustomPatternPlaceholder/=x/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/CustomPatternPlaceholder/=x/Properties/=Minimal/@EntryIndexedValue">-1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/CustomPatternPlaceholder/=x/Type/@EntryValue">ArgumentPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/FormatAfterReplace/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/ReplacePattern/@EntryValue">$x$ Is Nothing</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/SearchPattern/@EntryValue">IsNothing($x$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/Severity/@EntryValue">SUGGESTION</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/ShortenReferences/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/Comment/@EntryValue">Convert to If operator</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=a/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=a/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=a/Properties/=ExpressionType/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=a/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=b/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/CustomPatternPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/FormatAfterReplace/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/ReplaceComment/@EntryValue">Convert to If operator</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/ReplacePattern/@EntryValue">Return If($x$, $a$, $b$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/SearchPattern/@EntryValue">If $x$ Then&#xD;
+	Return $a$&#xD;
+Else&#xD;
+	Return $b$&#xD;
+End If</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/Severity/@EntryValue">HINT</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0FAA3EDA74B8EC4CAAAC553138F522C8/ShortenReferences/@EntryValue">False</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/Comment/@EntryValue">Convert to If operator</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=a/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=a/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=a/Properties/=ExpressionType/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=a/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=b/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=y/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=y/Type/@EntryValue">IdentifierPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/FormatAfterReplace/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/ReplaceComment/@EntryValue">Convert to If operator</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/ReplacePattern/@EntryValue">$y$ = If($x$, $a$, $b$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/SearchPattern/@EntryValue">If $x$ Then&#xD;
+	$y$ = $a$&#xD;
+Else&#xD;
+	$y$ = $b$&#xD;
+End If</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/Severity/@EntryValue">HINT</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/ShortenReferences/@EntryValue">False</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=3B170C4B90D09049846274586A7A94E4/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=3B170C4B90D09049846274586A7A94E4/Comment/@EntryValue">Replace with If operator</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=3B170C4B90D09049846274586A7A94E4/CustomPatternPlaceholder/=args/@KeyIndexDefined">True</s:Boolean>
@@ -12,7 +135,122 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=3B170C4B90D09049846274586A7A94E4/SearchPattern/@EntryValue">IIf($args$)</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=3B170C4B90D09049846274586A7A94E4/Severity/@EntryValue">SUGGESTION</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=3B170C4B90D09049846274586A7A94E4/ShortenReferences/@EntryValue">False</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/Comment/@EntryValue">Convert to If operator</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=a/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=a/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=a/Properties/=ExpressionType/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=a/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=b/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/CustomPatternPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/FormatAfterReplace/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/ReplaceComment/@EntryValue">Convert to If operator</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/ReplacePattern/@EntryValue">Return If($x$, $a$, $b$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/SearchPattern/@EntryValue">If $x$ Then Return $a$&#xD;
+Return $b$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/Severity/@EntryValue">HINT</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=5903B7C43C117E48A1A1921B59F85CE8/ShortenReferences/@EntryValue">False</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/Comment/@EntryValue">Simplify conditional operator</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/CustomPatternPlaceholder/=x/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/CustomPatternPlaceholder/=x/Properties/=Minimal/@EntryIndexedValue">-1</s:String>
@@ -24,11 +262,73 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/FormatAfterReplace/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/IsReplacePattern/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/ReplaceComment/@EntryValue">Simplify conditional operator</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/ReplacePattern/@EntryValue">If($x$, $y$) </s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/SearchPattern/@EntryValue">If($x$ IsNot Nothing, $x$, $y$)</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/Severity/@EntryValue">SUGGESTION</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=7168EB7F2D631F45A502FDB5C48CD267/ShortenReferences/@EntryValue">False</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/Comment/@EntryValue">Simplify conditional operator</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/CustomPatternPlaceholder/=x/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/CustomPatternPlaceholder/=x/Properties/=Minimal/@EntryIndexedValue">-1</s:String>
@@ -40,11 +340,13 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/FormatAfterReplace/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/IsReplacePattern/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/ReplaceComment/@EntryValue">Simplify conditional operator</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/ReplacePattern/@EntryValue">If($x$, $y$) </s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/SearchPattern/@EntryValue">If($x$ = Nothing, $y$, $x$)</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/Severity/@EntryValue">SUGGESTION</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/ShortenReferences/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/Comment/@EntryValue">Simplify conditional operator</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/CustomPatternPlaceholder/=x/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/CustomPatternPlaceholder/=x/Properties/=Minimal/@EntryIndexedValue">-1</s:String>
@@ -56,10 +358,118 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/FormatAfterReplace/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/IsReplacePattern/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/ReplaceComment/@EntryValue">Simplify conditional operator</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/ReplacePattern/@EntryValue">If($x$, $y$) </s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/SearchPattern/@EntryValue">If($x$ Is Nothing, $y$, $x$)</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/Severity/@EntryValue">SUGGESTION</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/ShortenReferences/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/CustomPatternPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/CustomPatternPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/CustomPatternPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/FormatAfterReplace/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/ReplacePattern/@EntryValue">String.IsNullOrEmpty($x$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/SearchPattern/@EntryValue">$x$ Is Nothing OrElse $x$ = ""</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/Severity/@EntryValue">SUGGESTION</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B76D7FB0D77200409EAC868A070DBCD6/ShortenReferences/@EntryValue">False</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/Comment/@EntryValue">Simplify conditional operator</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/CustomPatternPlaceholder/=x/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/CustomPatternPlaceholder/=x/Properties/=Minimal/@EntryIndexedValue">-1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/CustomPatternPlaceholder/=x/Type/@EntryValue">ArgumentPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/CustomPatternPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/CustomPatternPlaceholder/=y/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/CustomPatternPlaceholder/=y/Properties/=Minimal/@EntryIndexedValue">-1</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/CustomPatternPlaceholder/=y/Type/@EntryValue">ArgumentPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/FormatAfterReplace/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/ReplaceComment/@EntryValue">Simplify conditional operator</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/ReplacePattern/@EntryValue">If($x$, $y$) </s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/SearchPattern/@EntryValue">If(Not $x$ Is Nothing, $x$, $y$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/Severity/@EntryValue">SUGGESTION</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/ShortenReferences/@EntryValue">False</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 
 
@@ -147,11 +557,11 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/LanguageName/@EntryValue">CSHARP</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=b/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=x/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
@@ -159,7 +569,7 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=x/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/ReplacePattern/@EntryValue">$list$.ToLookup($b$=&gt;$x$)[$y$]</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142233548382/SearchPattern/@EntryValue">$list$.Single($b$ =&gt; $x$.Equals($y$))</s:String>
@@ -170,11 +580,11 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/LanguageName/@EntryValue">CSHARP</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=b/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=x/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
@@ -182,7 +592,7 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=x/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/ReplacePattern/@EntryValue">$list$.ToLookup($b$=&gt;$x$)[$y$]</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234188459/SearchPattern/@EntryValue">$list$.Single($b$ =&gt; $x$ == $y$)</s:String>
@@ -193,11 +603,11 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/LanguageName/@EntryValue">CSHARP</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/RecentSearchPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/RecentSearchPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/RecentSearchPlaceholder/=b/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/ReplacePattern/@EntryValue">$list$.ToLookup($b$)</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142234374944/SearchPattern/@EntryValue">$list$.Single($b$)</s:String>
@@ -210,11 +620,11 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235111192/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$y$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/@KeyIndexDefined">True</s:Boolean>
@@ -225,15 +635,15 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235351033/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/@KeyIndexDefined">True</s:Boolean>
@@ -244,15 +654,15 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142235520061/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$b$.$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/@KeyIndexDefined">True</s:Boolean>
@@ -263,53 +673,53 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236055340/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/LanguageName/@EntryValue">CSHARP</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=b/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236192778/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$b$.$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/LanguageName/@EntryValue">CSHARP</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=b/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236304860/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/@KeyIndexDefined">True</s:Boolean>
@@ -320,15 +730,15 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236391588/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/@KeyIndexDefined">True</s:Boolean>
@@ -339,35 +749,35 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=y/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/RecentSearchPlaceholder/=y/Type/@EntryValue">IdentifierPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236473703/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/LanguageName/@EntryValue">CSHARP</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=b/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=b/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142236547459/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$b$.$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/@KeyIndexDefined">True</s:Boolean>
@@ -378,16 +788,16 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=y/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/RecentSearchPlaceholder/=y/Type/@EntryValue">IdentifierPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237084539/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$b$.$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/@KeyIndexDefined">True</s:Boolean>
@@ -398,16 +808,16 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=y/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/RecentSearchPlaceholder/=y/Type/@EntryValue">IdentifierPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237363900/SearchPattern/@EntryValue">$list$.Single(delegate($b$){ return $b$.$y$==$x$; })</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/@KeyIndexDefined">True</s:Boolean>
@@ -418,16 +828,16 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=y/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/RecentSearchPlaceholder/=y/Type/@EntryValue">IdentifierPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142237450545/SearchPattern/@EntryValue">$list$.Single(delegate($b$){ return $y$==$x$; })</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/@KeyIndexDefined">True</s:Boolean>
@@ -438,15 +848,15 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=y/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/RecentSearchPlaceholder/=y/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238007597/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/@KeyIndexDefined">True</s:Boolean>
@@ -457,16 +867,16 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=b/Type/@EntryValue">ArgumentPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=y/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/RecentSearchPlaceholder/=y/Type/@EntryValue">IdentifierPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238320147/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$b$.$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/@KeyIndexDefined">True</s:Boolean>
@@ -474,20 +884,20 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=b/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=b/Properties/=RegEx/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=b/Properties/=RegEx/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=b/Type/@EntryValue">IdentifierPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=y/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/RecentSearchPlaceholder/=y/Type/@EntryValue">IdentifierPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142238453745/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$b$.$y$==$x$)</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/@KeyIndexDefined">True</s:Boolean>
@@ -497,20 +907,20 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=b/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=b/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=b/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=b/Properties/=RegEx/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=b/Properties/=RegEx/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=b/Type/@EntryValue">IdentifierPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=list/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=list/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=list/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=list/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=y/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=y/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=y/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=y/Properties/=RegEx/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/RecentSearchPlaceholder/=y/Type/@EntryValue">IdentifierPlaceholder</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/ReplacePattern/@EntryValue">$list$.ToLookup($b$=&gt;$b$.$y$)[$x$]</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412142239176065/SearchPattern/@EntryValue">$list$.Single($b$=&gt;$b$.$y$==$x$)</s:String>
@@ -522,7 +932,7 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412222318549406/RecentSearchPlaceholder/=a/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412222318549406/RecentSearchPlaceholder/=a/Properties/=CaseSensitive/@EntryIndexedValue">True</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412222318549406/RecentSearchPlaceholder/=a/Properties/=ExactType/@EntryIndexedValue">False</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412222318549406/RecentSearchPlaceholder/=a/Properties/=RegEx/@EntryIndexedValue"/>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412222318549406/RecentSearchPlaceholder/=a/Properties/=RegEx/@EntryIndexedValue" />
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412222318549406/RecentSearchPlaceholder/=a/Type/@EntryValue">IdentifierPlaceholder</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412222318549406/RecentSearchPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201412222318549406/RecentSearchPlaceholder/=x/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
