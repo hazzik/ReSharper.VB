@@ -4,7 +4,7 @@ A set of SSR for VB.NET
 Supported SSR
 -------------
 
-* `$x$ Is Nothing OrElse $x$` = "" => `String.IsNullOrEmpty($x$)`
+* `$x$ Is Nothing OrElse $x$ = ""` => `String.IsNullOrEmpty($x$)`
 * Convert If-Then-Else to conditional
 * `IsNothing($x$)` => `$x$ Is Nothing`
 * Replace `IIf` with `If` operator
