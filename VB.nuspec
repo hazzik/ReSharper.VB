@@ -2,16 +2,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Hazzik.Resharper.VB</id>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <authors>Alexander Zaytsev</authors>
         <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/hazzik/ReSharper.VB</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>A set of SSR for VB.NET</description>
-        <copyright>&amp;copy; Alexander Zaytsev 2014</copyright>
+        <copyright>© Alexander Zaytsev 2014-2015</copyright>
         <tags>SSR VB VisualBasic</tags>
         <dependencies>
-            <dependency id="Wave" version="[1.0]" />
+            <dependency id="Wave" version="1.0" />
         </dependencies>
     </metadata>
     <files>
