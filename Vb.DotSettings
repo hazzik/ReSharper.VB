@@ -1,4 +1,22 @@
-<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/Comment/@EntryValue">Remove redundant cast</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/CustomPatternPlaceholder/=Integer/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/CustomPatternPlaceholder/=Integer/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/CustomPatternPlaceholder/=Integer/Properties/=Type/@EntryIndexedValue">System.Int32</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/CustomPatternPlaceholder/=Integer/Type/@EntryValue">TypePlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/CustomPatternPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/CustomPatternPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue">System.Int32</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/CustomPatternPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/FormatAfterReplace/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/ReplaceComment/@EntryValue">Remove redundant cast</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/ReplacePattern/@EntryValue">$x$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/SearchPattern/@EntryValue">CType($x$, $Integer$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/Severity/@EntryValue">SUGGESTION</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=02D0A26E3D2F9748B0914415330614AF/ShortenReferences/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=0342D5896E71EC43B4D0F3BAD65F5F92/CustomPatternPlaceholder/=x/Properties/=Maximal/@EntryIndexedValue">-1</s:String>
@@ -71,6 +89,23 @@ End If</s:String>
 	
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/Comment/@EntryValue">Convert to If operator</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/CustomPatternPlaceholder/=a/@KeyIndexDefined">True</s:Boolean>
@@ -102,6 +137,18 @@ Else&#xD;
 End If</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/Severity/@EntryValue">HINT</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=21234A51F0F1494FB7C91C6096D80017/ShortenReferences/@EntryValue">False</s:Boolean>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -345,6 +392,33 @@ Return $b$</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/SearchPattern/@EntryValue">If($x$ = Nothing, $y$, $x$)</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/Severity/@EntryValue">SUGGESTION</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9C872DFFECBECD4DB2E9CF616EC9D33E/ShortenReferences/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/Comment/@EntryValue">Remove redundant cast</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/CustomPatternPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/CustomPatternPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue">System.Decimal</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/CustomPatternPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/ReplaceComment/@EntryValue">Remove redundant cast</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/ReplacePattern/@EntryValue">$x$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/SearchPattern/@EntryValue">CDec($x$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/Severity/@EntryValue">SUGGESTION</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=9DB91281FF5BB9419DB2B027BD415009/ShortenReferences/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/Comment/@EntryValue">Remove redundant cast</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/CustomPatternPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/CustomPatternPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue">System.Int32</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/CustomPatternPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/FormatAfterReplace/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/ReplaceComment/@EntryValue">Remove redundant cast</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/ReplacePattern/@EntryValue">$x$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/SearchPattern/@EntryValue">CInt($x$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/Severity/@EntryValue">SUGGESTION</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=A49A357BA3B12446BEED109B25CB160A/ShortenReferences/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/Comment/@EntryValue">Simplify conditional operator</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=B65F6E204735A948BB3703E3BEF69413/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
@@ -422,6 +496,27 @@ Return $b$</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/SearchPattern/@EntryValue">If(Not $x$ Is Nothing, $x$, $y$)</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/Severity/@EntryValue">SUGGESTION</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=CA312D15DC07564C9533FAA46D3E7F27/ShortenReferences/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/CustomPatternPlaceholder/=Integer/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/CustomPatternPlaceholder/=Integer/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/CustomPatternPlaceholder/=Integer/Properties/=Type/@EntryIndexedValue">System.Int32</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/CustomPatternPlaceholder/=Integer/Type/@EntryValue">TypePlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/CustomPatternPlaceholder/=x/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/CustomPatternPlaceholder/=x/Properties/=ExactType/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/CustomPatternPlaceholder/=x/Properties/=ExpressionType/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/CustomPatternPlaceholder/=x/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/FormatAfterReplace/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/ReplacePattern/@EntryValue"> CInt($x$)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/SearchPattern/@EntryValue">CType($x$, $Integer$)</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=D856AF0FDFBC78458C928C66CABCF7E4/ShortenReferences/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E818008B4E0A1942A0B2638A4DD5FD95/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E818008B4E0A1942A0B2638A4DD5FD95/IsReplacePattern/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E818008B4E0A1942A0B2638A4DD5FD95/LanguageName/@EntryValue">VBASIC</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E818008B4E0A1942A0B2638A4DD5FD95/ReplacePattern/@EntryValue">DateTime.Now</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E818008B4E0A1942A0B2638A4DD5FD95/SearchPattern/@EntryValue">Date.Now</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=E818008B4E0A1942A0B2638A4DD5FD95/Severity/@EntryValue">SUGGESTION</s:String>
 	
 	
 	
